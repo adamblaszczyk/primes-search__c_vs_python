@@ -1,2 +1,2 @@
 # Primes Search
-[FreeBSD][Linux][Windows]
+[FreeBSD] [Linux] [Windows]
