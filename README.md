@@ -1,1 +1,2 @@
-# primes-search__c_vs_python
+# Primes Search
+[FreeBSD][Linux][Windows]
