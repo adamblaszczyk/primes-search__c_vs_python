@@ -6,3 +6,4 @@ Porównanie szybkości działania algorytmu w językach programowania:
 - C
 - Python
 - Go
+- Rust
